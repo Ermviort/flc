@@ -1,1 +1,2 @@
 Print out ("Привет, Эрмвиорт!")
+Print ("This is the test launch")
