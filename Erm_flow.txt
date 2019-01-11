@@ -1,3 +1,4 @@
-Print out ("Привет, Эрмвиорт!")
-Print ("This is the test launch")
-Print ("Heeeeeeee")
+Print out ("Привет, Эрмвиорт!;")
+Print ("This is the test launch;")
+Print ("Heeeeeeee;")
+Print ("Hello, my dear friend;")
